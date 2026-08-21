@@ -2,6 +2,12 @@
 
 알고리즘과 SQL 문제 풀이를 기록하는 저장소입니다.
 
+## 프로그래머스 알고리즘
+
+| 번호 | 문제 | 난이도 | 분류 | 풀이 |
+| --- | --- | --- | --- | --- |
+| 43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Level 3 | 이분 탐색, Parametric Search | [풀이](./programmers/algorithm/binary-search/43238-입국심사/) |
+
 ## 프로그래머스 SQL
 
 | 번호 | 문제 | 난이도 | 분류 | 풀이 |
