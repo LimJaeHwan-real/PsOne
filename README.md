@@ -6,6 +6,7 @@
 
 | 번호 | 문제 | 난이도 | 분류 | 풀이 |
 | --- | --- | --- | --- | --- |
+| 43165 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java) | Level 2 | DFS, 재귀, 백트래킹 | [풀이](./programmers/algorithm/dfs-bfs/43165-타겟-넘버/) |
 | 43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Level 3 | 이분 탐색, Parametric Search | [풀이](./programmers/algorithm/binary-search/43238-입국심사/) |
 | 43236 | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | Level 4 | 이분 탐색, Parametric Search, 그리디 | [풀이](./programmers/algorithm/binary-search/43236-징검다리/) |
 
