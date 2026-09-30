@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 | 1844 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java) | Level 2 | BFS, 최단 거리 | [풀이](./programmers/algorithm/dfs-bfs/1844-게임-맵-최단거리/) |
 | 43162 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java) | Level 3 | DFS, 그래프 탐색 | [풀이](./programmers/algorithm/dfs-bfs/43162-네트워크/) |
-| 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java) | Level 3 | DFS, 백트래킹 | [풀이](./programmers/algorithm/dfs-bfs/43163-단어-변환/) |
+| 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java) | Level 3 | DFS, BFS, 백트래킹 | [풀이](./programmers/algorithm/dfs-bfs/43163-단어-변환/) |
 | 43165 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java) | Level 2 | DFS, 재귀, 백트래킹 | [풀이](./programmers/algorithm/dfs-bfs/43165-타겟-넘버/) |
 | 43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Level 3 | 이분 탐색, Parametric Search | [풀이](./programmers/algorithm/binary-search/43238-입국심사/) |
 | 43236 | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | Level 4 | 이분 탐색, Parametric Search, 그리디 | [풀이](./programmers/algorithm/binary-search/43236-징검다리/) |
