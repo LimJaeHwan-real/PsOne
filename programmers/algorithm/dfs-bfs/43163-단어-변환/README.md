@@ -29,9 +29,10 @@
 
 ## 제출 코드
 
-[Solution.java](./Solution.java)
+- [DFS Solution.java](./dfs/Solution.java)
+- [BFS Solution.java](./bfs/Solution.java)
 
-`solution()`은 DFS 풀이의 제출 진입점이며, `bfs()`에는 BFS 대안 풀이를 함께 기록했다.
+두 파일은 각각 독립적인 `Solution` 클래스이므로, 원하는 풀이 파일 하나를 프로그래머스에 제출한다.
 
 ## 배운 점
 
